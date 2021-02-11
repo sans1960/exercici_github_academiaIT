@@ -1,2 +1,3 @@
 Creació del fitxer.txt
 autor Albert Sans
+Afegit desde branch1
