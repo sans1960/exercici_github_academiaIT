@@ -1,1 +1,2 @@
 Creació del fitxer.txt
+autor Albert Sans
